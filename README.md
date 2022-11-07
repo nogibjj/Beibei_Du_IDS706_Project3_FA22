@@ -6,6 +6,10 @@ https://www.kaggle.com/datasets/shariful07/nice-work-thanks-for-share
 
 ## WorkFlow 
 ![image](https://github.com/belladu0201/Images_Beibei/blob/main/IDS706%20Project%203.png "image Title")
-## Tools
 
+## Tools
+- I tried to use 2 tools to query a database: Both Sqlite and Spark using Azure Databricks.
+- sqlite3
+- Spark
 ## Important Commands/How to Use
+- Check the ipynb notebooks for further information/details
